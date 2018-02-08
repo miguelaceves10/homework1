@@ -14,7 +14,7 @@
         <header>
             <h1>Programming Languages</h1>
         </header>
-        <nav>
+        <nav
             <ul id= "menu">
             
             <li><a href="index.php">Home</a></li>
@@ -28,7 +28,7 @@
         
         <main>
             <figure id="cspic">
-                <img width="350" height="300" src="img/cs1.jpg" />
+                <img width="350" height="300" src="img/cs1.jpg" alt= "Picture" />
             </figure>
             
             <div id="main">
