@@ -1,0 +1,74 @@
+body{
+    background-color: #140c45;
+    color: white;
+}
+
+#cspic{
+    float: left;
+}
+
+header{
+    text-align: center;
+}
+#pythonimg{
+    float: left;
+}
+
+#main{
+    text-align: center;
+}
+footer{
+    clear: both;
+    font-size: .8em;
+}
+nav a{ 
+    padding:15px;
+    padding-bottom: 4px;
+    font-size: 1.83em;
+    text-decoration: none;
+    color: #ad1611;          
+    
+}
+#rubyimg{
+    float: left;
+}
+
+nav a:hover{ 
+    border-bottom: 2px blue solid;
+    font-size: 2em;
+    transition: .9s; 
+}
+footer{
+    text-align:center;
+}
+#menu {
+    list-style-type: none;
+    margin-left: 305px;
+    margin-right: 330px;
+    padding: 0;
+    overflow: hidden;
+    background-color: #d1040b;
+}
+
+li {
+    float: left;
+}
+#swiftimg{
+    float: left;
+}
+
+li a {
+    display: inline-block;
+    color: white;
+    text-align: center;
+    padding: 6px 42px;
+    text-decoration: none;
+}
+
+
+li a:hover {
+    background-color: black;
+}
+nav{
+    text-align:center;
+}
